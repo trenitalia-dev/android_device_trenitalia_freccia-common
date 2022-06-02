@@ -22,7 +22,7 @@ TARGET_2ND_CPU_VARIANT := generic-engine
 TARGET_2ND_CPU_VARIANT_RUNTIME := choo-choo
 
 # Bootloader
-TARGET_BOOTLOADER_BOARD_NAME := kona
+TARGET_BOOTLOADER_BOARD_NAME := freccia
 TARGET_NO_BOOTLOADER := true
 
 # Inherit the proprietary files
